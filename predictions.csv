@@ -1,0 +1,21 @@
+timestamp,filename,prediction,curing,edibility
+2025-09-25 21:00:27,Fungal diseases Saprolegniasis (2).png,Bacterial Red disease,Quarantine and antibiotic treatment,Not recommended
+2025-09-25 21:29:04,Fungal diseases Saprolegniasis (5).jpeg,Fungal diseases Saprolegniasis,Salt baths or antifungal treatment.,Not recommended
+2025-09-25 21:33:06,Bacterial Red disease (4).png,Bacterial gill disease,Improve water quality; antibiotics if severe.,Not recommended
+2025-09-25 21:46:03,Bacterial Red disease (5).png,Bacterial Red disease,Quarantine and antibiotic treatment.,Not recommended
+2025-09-26 05:58:22,Fungal diseases Saprolegniasis (70).jpg,Fungal diseases Saprolegniasis,Salt baths or antifungal treatment.,Not recommended
+2025-09-26 06:07:38,Healthy Fish (2).jpeg,Healthy Fish,No treatment required.,Edible
+2025-09-26 06:07:55,Healthy Fish (6).jpeg,Healthy Fish,No treatment required.,Edible
+2025-09-26 06:08:15,Parasitic diseases (7).jpg,Parasitic diseases,Use antiparasitic medications.,Not recommended
+2025-09-26 06:09:32,holed fish.jpg,Bacterial Red disease,Quarantine and antibiotic treatment.,Not recommended
+2025-09-26 06:11:04,holed fish.jpg,Bacterial Red disease,Quarantine and antibiotic treatment.,Not recommended
+2025-09-26 11:18:50,Healthy Fish (2).jpg,Healthy Fish,No treatment required.,Edible
+2025-09-26 11:22:18,Healthy Fish (2).png,Healthy Fish,No treatment required.,Edible
+2025-09-26 13:16:56,Healthy Fish (2).jpeg,Healthy Fish,No treatment required.,Edible
+2025-09-26 13:20:32,Parasitic diseases (2).jpeg,Parasitic diseases,Use antiparasitic medications.,Not recommended
+2025-09-26 16:06:45,Parasitic diseases (2).jpeg,Parasitic diseases,Use antiparasitic medications.,Not recommended
+2025-09-26 16:10:33,Parasitic diseases (2).jpg,Parasitic diseases,Use antiparasitic medications.,Not recommended
+2025-09-26 17:16:15,Healthy Fish (3).png,Healthy Fish,No treatment required.,Edible
+2025-09-26 17:28:37,Healthy Fish (2).jpg,Healthy Fish,No treatment required.,Edible
+2025-09-26 17:30:42,Parasitic diseases (16).jpg,Parasitic diseases,Use antiparasitic medications.,Not recommended
+2025-09-26 18:20:30,Parasitic diseases (2).jpeg,Parasitic diseases,Use antiparasitic medications.,Not recommended
